@@ -1,0 +1,8 @@
+identifier_name:
+  min_length: 2
+
+nesting:
+  type_level: 2
+
+function_parameter_count:
+  warning: 7
